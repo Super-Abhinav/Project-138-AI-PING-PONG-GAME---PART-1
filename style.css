@@ -1,0 +1,17 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.instructions {
+    float: right;
+    border: 2px white solid;
+}
+
+#start {
+    font-size: 22px;
+}
